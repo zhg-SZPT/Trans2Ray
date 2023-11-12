@@ -1,0 +1,1 @@
+Class: Saw, Confidence: 1.00, Bounding Box: (93.53, 132.16, 399.35, 298.75)
